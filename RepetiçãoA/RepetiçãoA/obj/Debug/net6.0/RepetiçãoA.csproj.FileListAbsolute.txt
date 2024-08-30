@@ -1,0 +1,15 @@
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\bin\Debug\net6.0\RepetiçãoA.exe
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\bin\Debug\net6.0\RepetiçãoA.deps.json
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\bin\Debug\net6.0\RepetiçãoA.runtimeconfig.json
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\bin\Debug\net6.0\RepetiçãoA.dll
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\bin\Debug\net6.0\RepetiçãoA.pdb
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\obj\Debug\net6.0\RepetiçãoA.csproj.AssemblyReference.cache
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\obj\Debug\net6.0\RepetiçãoA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\obj\Debug\net6.0\RepetiçãoA.AssemblyInfoInputs.cache
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\obj\Debug\net6.0\RepetiçãoA.AssemblyInfo.cs
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\obj\Debug\net6.0\RepetiçãoA.csproj.CoreCompileInputs.cache
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\obj\Debug\net6.0\RepetiçãoA.dll
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\obj\Debug\net6.0\refint\RepetiçãoA.dll
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\obj\Debug\net6.0\RepetiçãoA.pdb
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\obj\Debug\net6.0\RepetiçãoA.genruntimeconfig.cache
+C:\Users\junior\Downloads\VS2022\RepetiçãoA\RepetiçãoA\obj\Debug\net6.0\ref\RepetiçãoA.dll
